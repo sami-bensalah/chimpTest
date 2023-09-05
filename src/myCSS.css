@@ -1,0 +1,10 @@
+.buttonColor{
+    background-color: #90d4aa; 
+}
+.buttonColor:hover{
+    background-color: #b1ddc2;
+}
+.endButton{
+    width: 100px;
+    height: 50px;
+}
